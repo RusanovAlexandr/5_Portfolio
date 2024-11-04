@@ -1,0 +1,31 @@
+.head-img{
+    margin-top: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 30px;
+    width: 300px;
+}
+
+.head-img_2{
+    margin-top: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 30px;
+    width: 100%;
+}
+
+body{
+    background-color:rgb(227, 227, 236)  
+}
+
+.display-6{
+    font-size: 28px;
+}
+
+.to_top{
+    margin: 25px;
+ }
+
+ .btn-project:hover{
+    background-color: rgb(0, 0, 126);
+ }
+
+
